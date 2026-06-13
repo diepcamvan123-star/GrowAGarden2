@@ -1,2 +1,2 @@
-print(2)
+print("2")
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/hkapZXFntg/0"))()
