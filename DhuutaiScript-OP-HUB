@@ -1,2 +1,2 @@
 print("2")
-loadstring(game:HttpGet("https://pastefy.app/yLHQeerl/raw", true))()
+loadstring(game:HttpGet("https://pastefy.app/aOY9Ah0o/raw", true))()
